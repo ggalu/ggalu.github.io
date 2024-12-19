@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Navigation</title>
+  <meta name="description" content="Documentation for small projects">
+
+	<link rel="icon" href="/assets/images/favicon.ico">
+  <link rel="canonical" href="http://localhost:4000/02_navigation.html">
+
+	<link rel="stylesheet" href="/assets/css/docs.css">
+
+</head>
+
+	<body>
+		<div class="wrapper">
+			<sidebar class="sidebar" id="sidebar">
+	<div class="sidebar-mobile">
+		<img src="/assets/images/menu.svg" class="menu-icon" id="menu" />
+		<img src="/assets/images/close.svg" class="close-icon" id="close" />
+	</div>
+	<div class="search">
+	<input type="text" class="search-input" id="search-input" placeholder="Type to search" />
+</div>
+
+	<div class="sidebar-main">
+		<ul class="navigation" id="navigation">																<li>				<a class="" href="/">					Overview				</a>			</li>								<li>				<a class="active" href="/02_navigation.html">					Navigation				</a>			</li>								<li>				<a class="" href="/03_github-pages.html">					Github Pages				</a>			</li>			</ul>
+
+		<ul id="search-results" class="navigation"></ul>
+
+	</div>
+</sidebar>
+
+			<main class="content">
+				<div class="inner">
+					<h1 id="navigation">Navigation</h1>
+
+<p>The navigation supports especially only one level. If you need deep nested structures you propably should use a larger documentation system like <a href="https://www.gitbook.com/">GitBook</a>.</p>
+
+<h2 id="adding-a-page-to-navigation">Adding a Page to Navigation</h2>
+
+<p>Not every page by default is part of the navigation. If you want to add a page to the navigation you have to add the <code>navigation</code> attribute with a desired <code>index</code>:</p>
+
+<pre><code>---
+layout: page
+title: Navigation
+navigation: 2
+---
+</code></pre>
+
+<p>The navigation <code>index</code> is starting with 1 representing the first item.
+hurz.</p>
+
+
+				</div>
+			</main>
+		</div>
+		<script src="/assets/js/zepto.min.js"></script>
+<script src="/assets/js/lunar.min.js"></script>
+<script src="/assets/js/prism.min.js"></script>
+<script src="/assets/js/database.js"></script>
+<script src="/assets/js/search.js"></script>
+<script src="/assets/js/mobile-navigation.js"></script>
+
+	</body>
+</html>
