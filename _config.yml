@@ -1,6 +1,12 @@
+# @Author: Georg C. Ganzenmueller, Albert-Ludwigs Universitaet Freiburg, Germany
+# @Date:   2024-12-19 17:08:28
+# @Last Modified by:   Georg C. Ganzenmueller, Albert-Ludwigs Universitaet Freiburg, Germany
+# @Last Modified time: 2024-12-19 17:24:10
 title: Millidocs Theme
 description: Documentation for small projects
 url: "https://github.com/alexander-heimbuch/millidocs" # the base hostname & protocol for your site, e.g. http://example.com
+
+remote_theme: alexander-heimbuch/millidocs
 
 # Build settings
 markdown: kramdown
