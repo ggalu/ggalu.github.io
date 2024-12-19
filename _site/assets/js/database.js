@@ -21,12 +21,22 @@ window.database = {
     ,
   
     
-    "05-taching-html": {
+    "04-publications-html": {
+      "title": "Publications",
+      "category": "",
+      "content": "PublicationsA list of publications can be obtained from the University of Freiburg library services, FreiDok+.Please click on this link",
+      "url": "/04_publications.html",
+      "href": "/04_publications.html"
+    }
+    ,
+  
+    
+    "05-teaching-html": {
       "title": "Teaching",
       "category": "",
       "content": "CoursesThe following courses are offered by the Gips-Schüle Chair of Sustainable Systems Engineeringsummer term  Angewandte Finite Elemente für die Strukturmechanik. (Wahlpflichtmodul B.Sc SSE/ESE/MST)  Studienseminar Sustainable Systems Engineering (Ringvorlesung), B.Sc.  Lebenszyklusanalyse (B.Sc. SSE)  Material Flow Analysis (M.Sc. SSE)  Dynamics of Materials / Werkstoffdynamik: Numerik dynamischer Deformationsprozesse (Concentration Module, M.Sc SSE)winter term  Material Life Cycles (Mandatory module Master programme SSE)  Kontinuumsmechanik (Pflichtmodul B.Sc. SSE)  Praktikum und Seminar “Grundlagen der Werkstoffcharakterisierung” (Wahlpflichmodul B.Sc. SSE)  Basics of Resilience / Grundlagen resilienter Systeme (Mandatory module Master programme SSE)  Physics of Failure (Concentration Module)  Faserverbundwerkstoffe / Composite Materials (Concentration Module M.Sc. SSE)",
-      "url": "/05_taching.html",
-      "href": "/05_taching.html"
+      "url": "/05_teaching.html",
+      "href": "/05_teaching.html"
     }
     ,
   
@@ -53,16 +63,6 @@ window.database = {
       "content": "![Logo](/images/logo/inatech-logo-sse.png){: height=\"200\" }The Gips-Schüle Chair for Sustainable Systems Engineering is headed by Prof. Dr.-Ing. habil. Stefan Hiermaier.Stefan Hiermaier is also Director of the Fraunhofer Ernst-Mach Institut for High-Speed Dynamics.![Stefan Hiermaier](/images/people/Stefan_gross.jpg){: height=\"200\" }",
       "url": "/",
       "href": "/"
-    }
-    ,
-  
-    
-    "publications-html": {
-      "title": "Publications",
-      "category": "",
-      "content": "# PublicationsA list of publications can be obtained from the University of Freiburg library services, FreiDok+.Please click on **[this link](https://freidok.uni-freiburg.de/report/?persId=29528,17284&type=pers&yearFrom=2019&yearTo=2024&lang=de){:target=\"_blank\"}**",
-      "url": "/publications.html",
-      "href": "/publications.html"
     }
     
   
