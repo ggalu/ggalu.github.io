@@ -44,7 +44,7 @@ window.database = {
     "06-open-positions-html": {
       "title": "Open Positions",
       "category": "",
-      "content": "Open PositionsMaster thesis topics  Design optimization and experimental characterization of 3D printed lattice structures for dynamic load requirements  Dynamic behaviour of gyroid lattice structures",
+      "content": "Open Positions  This is a preview of Master thesis topics  Design optimization and experimental characterization of 3D printed lattice structures for dynamic load requirements  Dynamic behaviour of gyroid lattice structures",
       "url": "/06_open_positions.html",
       "href": "/06_open_positions.html"
     }
