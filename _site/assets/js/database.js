@@ -24,7 +24,7 @@ window.database = {
     "04-publications-html": {
       "title": "Publications",
       "category": "",
-      "content": "PublicationsA list of publications can be obtained from the University of Freiburg library services, FreiDok+.Please click on this link",
+      "content": "PublicationsPlease see the Research Gate publication profiles of  Prof. Dr.-Ing. Stefan Hiermaier  Dr. Georg GanzenmüllerFrom within the University of Freiburg, a list of publications can be obtained from the University of Freiburg library services, FreiDok+.Please click on this link",
       "url": "/04_publications.html",
       "href": "/04_publications.html"
     }
@@ -34,7 +34,7 @@ window.database = {
     "05-teaching-html": {
       "title": "Teaching",
       "category": "",
-      "content": "CoursesThe following courses are offered by the Gips-Schüle Chair of Sustainable Systems Engineeringsummer term  Angewandte Finite Elemente für die Strukturmechanik. (Wahlpflichtmodul B.Sc SSE/ESE/MST)  Studienseminar Sustainable Systems Engineering (Ringvorlesung), B.Sc.  Lebenszyklusanalyse (B.Sc. SSE)  Material Flow Analysis (M.Sc. SSE)  Dynamics of Materials / Werkstoffdynamik: Numerik dynamischer Deformationsprozesse (Concentration Module, M.Sc SSE)winter term  Material Life Cycles (Mandatory module Master programme SSE)  Kontinuumsmechanik (Pflichtmodul B.Sc. SSE)  Praktikum und Seminar “Grundlagen der Werkstoffcharakterisierung” (Wahlpflichmodul B.Sc. SSE)  Basics of Resilience / Grundlagen resilienter Systeme (Mandatory module Master programme SSE)  Physics of Failure (Concentration Module)  Faserverbundwerkstoffe / Composite Materials (Concentration Module M.Sc. SSE)",
+      "content": "CoursesThe chair offers lectures and exercises within the Master’s programme Sustainable Systems Engineering and the  B.Sc. programme Nachhaltige Technische Systeme.Sustainability area  Lebenszyklusanalyse (Dr. Sebastian Kilchert, Prof. Dr.-Ing. Stefan Hiermaier), B.Sc. programme  Material Life Cycles (Dr. Sebastian Kilchert, Prof. Dr.-Ing. Stefan Hiermaier), M.Sc. programme  Material Flow Analysis (M.Sc. SSE)  Studienseminar Sustainable Systems Engineering (Ringvorlesung, Dr. Sebastian Kilchert, Prof. Dr.-Ing. Stefan Hiermaier), B.Sc. programmeMaterials area  Dynamics of Materials: material behaviour under dynamic loading (Prof. Dr.-Ing. Stefan Hiermaier), M.Sc. programme  Physics of Failure (Prof. Dr.-Ing. Stefan Hiermaier), M.Sc. programme  Composite Materials (Dr. Mathieu Imbert, Dr. Michael May), M.Sc. programme  Advanced Materials Laboratory (Digital Image Correlation part, Dr. Mariem Nouria, Dr. Georg Ganzenmüller), M.Sc. programme  Angewandte Finite Elemente für die Strukturmechanik (Dr. Georg Ganzenmüller), B.Sc. programme  Kontinuumsmechanik (Dr. Pascal Matura, Prof. Dr.-Ing. Stefan Hiermaier), B.Sc. programme  Grundlagen der mechanischen Werkstoffcharakterisierung (Praktikum und Seminar, Dr. Georg Ganzenmüller), B.Sc. programmeResilience area  Fundamentals of Resilience (Prof. Dr.-Ing. Stefan Hiermaier), M.Sc. programme  Grundlagen resilienter Systeme (Prof. Dr.-Ing. Stefan Hiermaier), B.Sc. programme",
       "url": "/05_teaching.html",
       "href": "/05_teaching.html"
     }
@@ -60,7 +60,7 @@ window.database = {
     "": {
       "title": "Overview",
       "category": "",
-      "content": "![Logo](/images/logo/inatech-logo-sse.png){: height=\"200\" }The Gips-Schüle Chair for Sustainable Systems Engineering is headed by Prof. Dr.-Ing. habil. Stefan Hiermaier.Stefan Hiermaier is also Director of the Fraunhofer Ernst-Mach Institut for High-Speed Dynamics.![Stefan Hiermaier](/images/people/Stefan_gross.jpg){: height=\"200\" }",
+      "content": "![Logo](/images/logo/inatech-logo-sse.png){: height=\"200\" }The Gips-Schüle Chair for Sustainable Systems Engineering is headed by Prof. Dr.-Ing. habil. Stefan Hiermaier.Stefan Hiermaier is also Director of the **[Fraunhofer Ernst-Mach Institut for High-Speed Dynamics](https://www.emi.fraunhofer.de/){:target=\"_blank\"}**.![Stefan Hiermaier](/images/people/01_Stefan_2024.jpg){:width=\"600\" }",
       "url": "/",
       "href": "/"
     }
