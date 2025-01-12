@@ -60,7 +60,7 @@ window.database = {
     "": {
       "title": "Overview",
       "category": "",
-      "content": "![Logo](/images/logo/inatech-logo-sse.png){: height=\"200\" }The Gips-Schüle Chair for Sustainable Systems Engineering is headed by Prof. Dr.-Ing. habil. Stefan Hiermaier.Stefan Hiermaier is also Director of the **[Fraunhofer Ernst-Mach Institut for High-Speed Dynamics](https://www.emi.fraunhofer.de/){:target=\"_blank\"}**.![Stefan Hiermaier](/images/people/01_Stefan_2024.jpg){:width=\"600\" }",
+      "content": "![Logo](/images/logo/logo-alu-sse_width1000.png){: width=\"800\" }The Gips-Schüle Chair for Sustainable Systems Engineering is headed by Prof. Dr.-Ing. habil. Stefan Hiermaier.Stefan Hiermaier is also Director of the [Fraunhofer Ernst-Mach Institut for High-Speed Dynamics](https://www.emi.fraunhofer.de/){:target=\"_blank\"}.![Stefan Hiermaier](/images/people/01_Stefan_2024.jpg){:width=\"800\" }",
       "url": "/",
       "href": "/"
     }
