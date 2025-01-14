@@ -11,16 +11,6 @@ window.database = {
     ,
   
     
-    "03-research-html": {
-      "title": "Research",
-      "category": "",
-      "content": "ResearchOur group specializes in mechanical behaviour of materials. We combine experimental and numerical approaches and investigate in particular these topics:  strain rate effects using Split-Hopkinson Methods  understanding, characterizing, and designing mechanical metamaterials  employing in-situ X-Ray CT and Digital Volume Correlation methods to characterize materials  developing meshfree methods for extreme deformation simulations  ecological and economic technology assessment",
-      "url": "/03_research.html",
-      "href": "/03_research.html"
-    }
-    ,
-  
-    
     "04-publications-html": {
       "title": "Publications",
       "category": "",
@@ -61,6 +51,16 @@ window.database = {
     ,
   
     
+    "09-research-xray-html": {
+      "title": "Research: X-Ray",
+      "category": "",
+      "content": "Visualising Ductile Failure with Ultra-High-Speed X-Ray ImagingThe aim of this research topic is to shed light on the ductile failure mechanism of metals. The ductile failure model rests on the assumption that shear and tensile strains nucleate voids which grow under subsequent deformation to form pores. Failure is understood as the interaction of pores, leading to a macroscopic crack. Our research interest is to directly measure the time-dependent evolution of void nucleation and pore growth in-situ, i.e. directly during an experiment.To this end, tensile tests at low and high strain rates are perfomted using High-Speed X-ray Phase Contrast Imaging (XPCI) at the European Synchrotron Radiation Facility (ESRF).This approach enables real-time, high-resolution visualization of void nucleation, growth, and coalescence,providing valuable insights into the effects of strain rate on void dynamics. Radiographic images from in-situ testing, shown in Figure 1, reveal distinct behavior depending on the applied strain rate.Initially, small pores are visible in both conditions. Quasi-static tests display gradual void nucleation and growth,while dynamic tests exhibit rapid nucleation, growth, and coalescence within a short time frame.To analyze these processes, segmented X-ray images were used to track individual voids over time with aPoint-In-Polygon (PIP) test and a Euclidean Distance-based approach (ED). The Moving Least Squares (MLS) method was applied to determine local strain distributions around voids. Figure 2 illustrates the evolution of apparent void fraction with longitudinal strain. At low strain rates, void fraction increases steadily through isolated growth. In contrast, high strain rates show slow initial growth, transitioning to rapid coalescence beyond a critical strain, resulting in extensive internal damage.                              Figure 1: radiographic image showing the evolution of voids under tensile strain.                                    Figure 2: Graph depicting the relationship between apparent void fraction and strain.      associated publications:  Jakkula, P.; Cohen, A.; Lukić, B.; Levi-Hevroni, D.; Rack, A.; Ganzenmüller, G.; Hiermaier, S. Split Hopkinson Tension Bar and Universal Testing Machine for High-Speed X-ray Imaging of Materials under Tension. Instruments 2022, 6, 38. https://doi.org/10.3390/instruments6030038",
+      "url": "/09_research_Xray.html",
+      "href": "/09_research_Xray.html"
+    }
+    ,
+  
+    
       
     
       
@@ -70,7 +70,7 @@ window.database = {
     "": {
       "title": "Overview",
       "category": "",
-      "content": "![Logo](/images/logo/logo-alu-sse_width1000.png){: width=\"800\" }The Gips-Schüle Chair for Sustainable Systems Engineering is headed by Prof. Dr.-Ing. habil. Stefan Hiermaier.Stefan Hiermaier is also Director of the [Fraunhofer Ernst-Mach Institut for High-Speed Dynamics](https://www.emi.fraunhofer.de/){:target=\"_blank\"}.![Stefan Hiermaier](/images/people/01_Stefan_2024.jpg){:width=\"800\" }",
+      "content": "![Logo](/images/logo/logo-alu-sse_width1000.png){: width=\"800\" }The Gips-Schüle Chair for Sustainable Systems Engineering is headed by Prof. Dr.-Ing. habil. Stefan Hiermaier.Stefan Hiermaier is also Director of the [Fraunhofer Ernst-Mach Institut for High-Speed Dynamics](https://www.emi.fraunhofer.de/){:target=\"_blank\"}.![Stefan Hiermaier](/images/people/01_Stefan_2024.jpg){:width=\"800\" }# ResearchOur group specializes in mechanical behaviour of materials. We combine experimental and numerical approaches and investigate in particular these topics:- strain rate effects using Split-Hopkinson Methods- understanding, characterizing, and designing mechanical metamaterials- employing in-situ X-Ray CT and Digital Volume Correlation methods to characterize materials- developing meshfree methods for extreme deformation simulations- ecological and economic technology assessment![Tensile Test](/images/research/M8L8.png){: height=\"200\" }![Symmpact](/images/research/Symmpact.png){: height=\"200\" }![Collission Welding](/images/research/welding.png){: height=\"200\" }![Sustainability Analysis](/images/research/Sustainability.jpeg){: height=\"200\" }",
       "url": "/",
       "href": "/"
     }
