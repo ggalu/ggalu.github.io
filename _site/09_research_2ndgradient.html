@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Research: Metamaterials</title>
+  <meta name="description" content="Documentation for small projects">
+
+	<link rel="icon" href="/assets/images/favicon.ico">
+  <link rel="canonical" href="http://localhost:4000/09_research_2ndgradient.html">
+
+	<link rel="stylesheet" href="/assets/css/docs.css">
+
+</head>
+
+	<body>
+		<div class="wrapper">
+			<sidebar class="sidebar" id="sidebar">
+	<div class="sidebar-mobile">
+		<img src="/assets/images/menu.svg" class="menu-icon" id="menu" />
+		<img src="/assets/images/close.svg" class="close-icon" id="close" />
+	</div>
+	<div class="search">
+	<input type="text" class="search-input" id="search-input" placeholder="Type to search" />
+</div>
+
+	<div class="sidebar-main">
+		<ul class="navigation" id="navigation">																<li>				<a class="" href="/">					Overview				</a>			</li>								<li>				<a class="" href="/02_staff.html">					People				</a>			</li>								<li>				<a class="" href="/03_research.html">					Research				</a>			</li>								<li>				<a class="" href="/04_publications.html">					Publications				</a>			</li>								<li>				<a class="" href="/05_teaching.html">					Teaching				</a>			</li>								<li>				<a class="" href="/06_open_positions.html">					Open Positions				</a>			</li>								<li>				<a class="active" href="/09_research_2ndgradient.html">					Research: Metamaterials				</a>			</li>			</ul>
+
+		<ul id="search-results" class="navigation"></ul>
+
+	</div>
+</sidebar>
+
+			<main class="content">
+				<div class="inner">
+					<h1 id="a-novel-2nd-gradient-metamaterial">A novel 2nd gradient metamaterial</h1>
+
+<p>Structured materials can exhibit mechanical properties that are unattainable in materials governed solely by their chemical composition. In some cases, conventional continuum models, such as the Cauchy continuum theory, must be extended to accurately describe the deformation behavior of certain metamaterials.
+To explore this, we designed the <strong>pantographic orthoblock</strong> (see Figure 1), based on a unit cell composed of slender rods connected by pivots. These pivots enable deformations primarily driven by the bending of the rods. By incorporating second gradients of displacement into the continuum model, the pantographic orthoblock became the first three-dimensional metamaterial where higher-order gradient effects are the dominant deformation mechanism.
+Generalized continuum theories, however, require specialized numerical methods due to the presence of additional degrees of freedom or the need to account for higher gradients, which demand more complex solution spaces. To address this, we developed a Finite Element routine based on <strong>Isogeometric Analysis</strong>, enabling the computation of deformation fields with well-defined second derivatives throughout the structure.
+Additionally, the orthoblock demonstrates a large elastic range and exhibits semi-auxetic behavior (see Figure 2).
+The pantographic orthoblock exemplifies the limitations of the traditional Cauchy continuum theory. To design and accurately describe truly novel metamaterials, more generalized and advanced theoretical frameworks are essential.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="/images/research/metamaterials/pantobox.jpg" alt="Pantobox" height="400" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Figure 1: a 3D printed pantographic orthoblock.</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="/images/research/metamaterials/tension.png" alt="Simulation" height="400" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Figure 2: a clamped extension test simulation showing the semi-auxetic behavior.</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="associated-publications">associated publications:</h2>
+<ul>
+  <li>Antonina Trippel, Maximilian Stilz, Florian Gutmann, Georg C. Ganzenmueller, and Stefan Hiermaier. “A Device for Characterizing Rotational Joints in Metamaterials.” In: Mechanics Research Communications 104 (2020), p. 103501. issn: 0093-6413. doi: 10.1016/j.mechrescom.2020.103501.</li>
+  <li>Maximilian Stilz, Francesco dell’Isola, Ivan Giorgio, Victor A. Eremeyev, Georg Ganzenmüller, and Stefan Hiermaier. “Continuum Models for Pantographic Blocks with Second Gradient Energies Which Are Incomplete.” In: Mechanics Research Communications 125 (2022), p. 103988. issn: 0093-6413. doi: 10.1016/j.mechrescom.2022.103988.</li>
+  <li>Maximilian Stilz, David Plappert, Florian Gutmann, and Stefan Hiermaier. “A 3D Extension of Pantographic Geometries to Obtain Metamaterial with Semi-Auxetic Properties.” In: Mathematics and Mechanics of Solids 27.4 (2022), pp. 673–686. issn: 1081-2865. doi: 10.1177/10812865211033322.</li>
+  <li>Francesco dell’Isola and Maximilian Stilz. “The «materialization» of Forces: Why Confounding Mathematical Concept and Physical Entity Makes the Design of Metamaterials Arduous.” In: ZAMM - Journal of Applied Mathematics and Mildunterschriftenechanics / Zeitschrift für Angewandte Mathematik und Mechanik 103.2 (2023), e202200433. issn: 1521-4001. doi: 10.1002/zamm.202200433.</li>
+  <li>Florian Gutmann, Maximilian Stilz, Sankalp Patil, Frank Fischer, Klaus Hoschke, Georg Ganzenmüller, and Stefan Hiermaier. “Miniaturization of Non-Assembly Metallic Pin-Joints by LPBF-Based Additive Manufacturing as Perfect Pivots for Pantographic Metamaterials.” In: Materials 16.5 (2023), p. 1797. issn: 1996-1944. doi:10.3390/ma16051797.</li>
+  <li>Maximilian Stilz, Francesco dell’Isola, and Stefan Hiermaier. “Complete 1D Continuum Model for a Pantographic Beam by Asymptotic Homogenization from Discrete Elements with Shear Deformation Measure.” In: Mechanics Research Communications 127 (2023), p. 104042. issn: 0093-6413. doi: 10 . 1016/j.mechrescom.2022.104042.</li>
+  <li>Maximilian Stilz, Simon R. Eugster, Jonas Harsch, Florian Gutmann, Georg Ganzenmüller, and Stefan Hiermaier. “A Second-Gradient Elasticity Model and Isogeometric Analysis for the Pantographic Ortho-Block.” In: International Journal of Solids and Structures 280 (2023), p. 112358. issn: 0020-7683. doi: 10.1016/j.ijsolstr.2023.112358.</li>
+  <li>Maximilian Stilz, Jonas Breuling, Simon Eugster, Marek Pawlikowski, and Roman Grygoruk. “Chirality Effects in Panto-Cylindrical Structures.” In: Mathematics and Mechanics of Solids (2024), p. 10812865231212145. issn: 1081-2865. doi: 10.1177/10812865231212145.</li>
+</ul>
+
+
+
+				</div>
+			</main>
+		</div>
+		<script src="/assets/js/zepto.min.js"></script>
+<script src="/assets/js/lunar.min.js"></script>
+<script src="/assets/js/prism.min.js"></script>
+<script src="/assets/js/database.js"></script>
+<script src="/assets/js/search.js"></script>
+<script src="/assets/js/mobile-navigation.js"></script>
+
+	</body>
+</html>
