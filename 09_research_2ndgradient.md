@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research: Metamaterials"
-navigation: 7
+navigation: 8
 ---
 
 # A novel 2nd gradient metamaterial
