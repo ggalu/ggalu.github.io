@@ -10,7 +10,7 @@ The chair offers lectures and exercises within the Master's programme *Sustainab
 ## Sustainability area
 - Lebenszyklusanalyse (Dr. Sebastian Kilchert, Prof. Dr.-Ing. Stefan Hiermaier), B.Sc. programme
 - Material Life Cycles (Dr. Sebastian Kilchert, Prof. Dr.-Ing. Stefan Hiermaier), M.Sc. programme
-- Material Flow Analysis (M.Sc. SSE)
+- Material Flow Analysis (Dr. Sebastian Kilchert, Prof. Dr.-Ing. Stefan Hiermaier), M.Sc. SSE
 - Studienseminar Sustainable Systems Engineering (Ringvorlesung, Dr. Sebastian Kilchert, Prof. Dr.-Ing. Stefan Hiermaier), B.Sc. programme
 
 
