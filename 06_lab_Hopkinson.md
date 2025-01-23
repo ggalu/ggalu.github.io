@@ -32,7 +32,8 @@ A major research focus of the chair is the development of testing methods for hi
 
 ## Large Direct-Impact Tension Bar
 
-| ![DITB](/images/research/dynamic/DITB_Sketch.png){: width="1024" } |
+| ![DITB Sketch](/images/research/dynamic/DITB_Sketch.png){: width="1024" } |
+| ![DITB](/images/research/dynamic/DITB.jpg){: width="1024" } |
 |:--:|
 | *Figure 4: This is an inverted direct-impact bar setup composed of a short and heavy striker and an output bar of 39 m length. It allows for intermediate strain rate tests at rates of ~100 /s and testing durations up to 13 ms.* |
 
