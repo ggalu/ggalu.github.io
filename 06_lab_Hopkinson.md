@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hopkinson bar lab"
+title: "Lab: Hopkinson bars"
 navigation: 6
 ---
 

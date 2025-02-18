@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research: Metamaterials"
+title: "Research: 2nd Gradient"
 navigation: 8
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "X-Ray CT lab"
+title: "Lab: X-Ray CT"
 navigation: 8
 ---
 
