@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Publications
-navigation: 4
----
+navigation: 3
 
 # Publications
 

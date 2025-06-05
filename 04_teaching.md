@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-navigation: 5
+navigation: 4
 ---
 
 # Courses
