@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 navigation: 3
+---
 
 # Publications
 

@@ -16,7 +16,7 @@ D-79110 Freiburg
 |----------------------- |--------------------------------|
 | ![Stefan Hiermaier](/images/people//01_Stefan.jpg){: height="160" } | **Prof. Dr.-Ing. habil Stefan Hiermaier** <br/> Inhaber der Professur <br/> Tel. 0761 203-96786 <br/> stefan.hiermaier@inatech.uni-freiburg.de |
 |----------------------- |--------------------------------|
-| ![Maria](/images/people//02_Maria.png){: height="160" } | **Maria Zamiralova** <br/> Sekretärin <br/> SIC 2.OG, Raum 343, Tel. 0761 203-96786 <br/> maria.zamiralova@inatech.uni-freiburg.de |
+| ![Maria](/images/people//02_Maria.png){: height="160" } | **Maria Zamiralova** <br/> Sekretärin <br/>  Tel. 0761 203-96786 <br/> maria.zamiralova@inatech.uni-freiburg.de |
 |----------------------- |--------------------------------|
 | ![Georg](/images/people//03_Georg.jpg){: height="160" } | **AkaRat Dr. Georg Ganzenmüller** <br/> group leader Materials Characterisation <br/> Tel. 0761 203-96784 <br/> georg.ganzenmueller@inatech.uni-freiburg.de |
 |----------------------- |--------------------------------|
@@ -26,8 +26,6 @@ D-79110 Freiburg
 |----------------------- |--------------------------------|
 | ![Mariem](/images/people//05_Mariem.jpg){: height="160" } | **Dr. Mariem Nouira** <br/> PostDoc Ductile Fracture <br/>  mariem.nouira@inatech.uni-freiburg.de |
 |----------------------- |--------------------------------|
-| ![Max](/images/people//10_Max.jpg){: height="160" } | **Dr. Maximilian Stilz** <br/> PostDoc Numerical Analysis <br/> maximilian.stilz@inatech.uni-freiburg.de |
-|----------------------- |--------------------------------|
 | ![Ruiyang](/images/people//06_Ruiyang.jpg){: height="160" } | **M.Sc. Ruiyang Deng** <br/> Researcher Sustainability Assessment<br/> ruiyang.deng@inatech.uni-freiburg.de |
 |----------------------- |--------------------------------|
 | ![Puneeth](/images/people//08_Puneeth.jpg){: height="160" } | **M.Sc. Puneeth Jakkula** <br/> Researcher Dynamic Behaviour of Materials<br/> puneeth.jakkula@inatech.uni-freiburg.de |
@@ -35,8 +33,18 @@ D-79110 Freiburg
 | ![Sankalp](/images/people//09_Sankalp.png){: height="160" } | **M.Sc. Sankalp Patil** <br/> Researcher Additive Design Optimization<br/> sankalp.patil@inatech.uni-freiburg.de |
 |----------------------- |--------------------------------|
 | ![David](/images/people//12_David.jpg){: height="160" } | **Dipl.Ing. David Plappert** <br/> Researcher Computertomography<br/> david.plappert@inatech.uni-freiburg.de |
+
+<br/>
+<br/>
+## Guest scientists
+<style>
+th, td {
+  width: 33%;
+}
+</style>
+| | |
 |----------------------- |--------------------------------|
-| ![Florian](/images/people//11_Florian.png){: height="160" } | **M.Sc. Florian Gutmann** <br/> Researcher Additive Manufacturing <br/> florian.gutmann@inatech.uni-freiburg.de |
+| ![Mohammad](/images/people//101_Mohammad.jpeg){: height="160" } | **Prof. Mohammad A. Gharaibeh** <br/> Visiting Researcher July - September 2025, investigation of sintered silver for die bonding|
 
 <br/>
 <br/>
@@ -47,6 +55,10 @@ th, td {
 }
 </style>
 | | |
+|----------------------- |--------------------------------|
+| ![Max](/images/people//10_Max.jpg){: height="160" } | **Dr.-Ing Maximilian Stilz** <br/> PhD Title: Second-gradient elasticity and isogeometric analysis for three-dimensional pantographic metamaterials <br/> https://doi.org/10.6094/UNIFR/266127 |
+|----------------------- |--------------------------------|
+| ![Florian](/images/people//11_Florian.png){: height="160" } | **Dr.-Ing. Florian Gutmann** <br/> PhD Title: Advancements in Miniaturizing Structures Accurately Using Standard LPBF: A Study on Non-Assembly Pin Joints
 |----------------------- |--------------------------------|
 | ![Antonina](/images/people//13_Antonina.jpg){: height="160" } | **Dr.-Ing. Antonina Trippel** <br/> PhD Title: Achieving efficiency and accuracy <br/> through kinematic integrity: <br/> a novel approach to metamaterial modelling <br/> https://doi.org/10.6094/UNIFR/255670 |
 |----------------------- |--------------------------------|
