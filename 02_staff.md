@@ -58,7 +58,7 @@ th, td {
 |----------------------- |--------------------------------|
 | ![Max](/images/people//10_Max.jpg){: height="160" } | **Dr.-Ing Maximilian Stilz** <br/> PhD Title: Second-gradient elasticity and isogeometric analysis for three-dimensional pantographic metamaterials <br/> https://doi.org/10.6094/UNIFR/266127 |
 |----------------------- |--------------------------------|
-| ![Florian](/images/people//11_Florian.png){: height="160" } | **Dr.-Ing. Florian Gutmann** <br/> PhD Title: Advancements in Miniaturizing Structures Accurately Using Standard LPBF: A Study on Non-Assembly Pin Joints
+| ![Florian](/images/people//11_Florian.png){: height="160" } | **Dr.-Ing. Florian Gutmann** <br/> PhD Title: Advancements in Miniaturizing Structures Accurately Using Standard LPBF: A Study on Non-Assembly Pin Joints <br/> https://doi.org/10.6094/UNIFR/269816 |
 |----------------------- |--------------------------------|
 | ![Antonina](/images/people//13_Antonina.jpg){: height="160" } | **Dr.-Ing. Antonina Trippel** <br/> PhD Title: Achieving efficiency and accuracy <br/> through kinematic integrity: <br/> a novel approach to metamaterial modelling <br/> https://doi.org/10.6094/UNIFR/255670 |
 |----------------------- |--------------------------------|

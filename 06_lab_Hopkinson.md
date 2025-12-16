@@ -41,6 +41,10 @@ A major research focus of the chair is the development of testing methods for hi
 
 
 ## associated publications:
+- M.R. Khosravani, S. Patil, P. Soltani, G. Ganzenmüller, S. Hiermaier, T. Reinicke,
+Dynamic fracture behavior of 3D-printed composites reinforced with continuous fibers,
+*Theoretical and Applied Fracture Mechanics*, vol. 142, **2026**,
+p. 105405, https://doi.org/10.1016/j.tafmec.2025.105405.
 - G.C. Ganzenmüller, E. Blaum, D. Mohrmann, T. Langhof, D. Plappert, N. Ledford, H. Paul, S. Hiermaier,
 A Simplified Design for a Split-Hopkinson Tension Bar with Long Pulse Duration, *Procedia Engineering*, vol 197, **2017**,
 pages 109-118, https://doi.org/10.1016/j.proeng.2017.08.087.

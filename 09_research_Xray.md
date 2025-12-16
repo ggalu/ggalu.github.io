@@ -32,6 +32,11 @@ Initially, small pores are visible in both conditions. Quasi-static tests displa
 ## associated publications:
 - Jakkula, P.; Cohen, A.; Lukić, B.; Levi-Hevroni, D.; Rack, A.; Ganzenmüller, G.; Hiermaier, S. Split Hopkinson Tension Bar and Universal Testing Machine for High-Speed X-ray Imaging of Materials under Tension. *Instruments* **2022**, *6*, 38. https://doi.org/10.3390/instruments6030038 
 
+- Nouira, M; Ganzenmüller, G.C.; Jakkula, P.; Patil, S.; Lukić, B.; Foster, D.J.; Hiermaier, S.,
+In-situ observation of ductile failure with High-speed X-ray Phase Contrast Imaging,
+*International Journal of Impact Engineering* **2025** , *203*, 105337. https://doi.org/10.1016/j.ijimpeng.2025.105337.
+
+- Rack, A.; Lukić, B.; Chapman, D.; Strucka, J.; Yao, Y.; Mughal, K., Maler, D.; Efimov, S.; Belozerov, O.; Krasik, Y.; Chittenden, J.; Bland, S.; Sollier, A.; Ganzenmueller, G.; Cohen, A.; Levi-Hevroni, D.;  Proud, W.; Song, P.; Eakins, D. Dynamic loading platforms coupled to ultra-high speed X-ray imaging at beamline ID19 of the European Synchrotron ESRF. *High Pressure Research* **2024**, *44*, 400-417. https://doi.org/10.1080/08957959.2024.2370369
 
 
 
