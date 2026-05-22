@@ -21,4 +21,6 @@ In a project funded by DFG, the project addresses a critical gap in understandin
 
 ## associated publications:
 
+- Gharaibeh MA, Ganzenmueller GC, Hiermaier S (2026), "Experimental characterizations of the influence of sintering pressure on the high-temperature tensile behavior of sintered silver". Soldering & Surface Mount Technology, Vol. 38 No. 3 pp. 216–231, doi: https://doi.org/10.1108/SSMT-03-2026-0025
+- Gharaibeh, M.A., Ganzenmüller, G.C. & Hiermaier, S. Tensile testing, porosity measurements, and material modeling of sintered silver material processed at different sintering pressures and durations. J Mater Sci: Mater Electron 37, 734 (2026). https://doi.org/10.1007/s10854-026-17143-w
 - Mohammad A. Gharaibeh, David Strahringer, Frank Fischer, Georg C. Ganzenmueller, Stefan Hiermaier. "Experiments on the effect of sintering pressure on the creep response of sintered silver material" In: Soldering & Surface Mount Technology (2025), DOI: https://doi.org/10.1108/SSMT-02-2025-0006
