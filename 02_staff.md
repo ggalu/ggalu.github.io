@@ -26,6 +26,8 @@ D-79110 Freiburg
 |----------------------- |--------------------------------|
 | ![Sankalp](/images/people//09_Sankalp.png){: height="160" } | **M.Sc. Sankalp Patil** <br/> Researcher Additive Design Optimization<br/> sankalp.patil@inatech.uni-freiburg.de |
 |----------------------- |--------------------------------|
+| ![Giuseppe](/images/people/16_Giuseppe.png){: height="160" } | **Dr. Giuseppe Bua** <br/> PostDoc High Rate Material Characterization<br/> giuseppe.bua@inatech.uni-freiburg.de |
+|----------------------- |--------------------------------|
 | ![Lokesh](/images/people/15_Lokesh.jpeg){: height="160" } | **M.Sc. Lokesh Metta** <br/> Researcher Computertomography and 3D Imaging<br/> lokesh.metta@inatech.uni-freiburg.de |
 
 
