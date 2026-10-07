@@ -18,7 +18,7 @@ The chair offers lectures and exercises within the Master's programme *Sustainab
 - Dynamics of Materials: material behaviour under dynamic loading (Prof. Dr.-Ing. Stefan Hiermaier), M.Sc. programme
 - Physics of Failure (Prof. Dr.-Ing. Stefan Hiermaier), M.Sc. programme
 - Composite Materials (Dr. Mathieu Imbert, Dr. Michael May), M.Sc. programme
-- Advanced Materials Laboratory (Digital Image Correlation part, Dr. Mariem Nouria, Dr. Georg Ganzenmüller), M.Sc. programme
+- Advanced Materials Laboratory (Digital Image Correlation part, Dr. Mariem Nouira, Dr. Georg Ganzenmüller), M.Sc. programme
 - Angewandte Finite Elemente für die Strukturmechanik (Dr. Georg Ganzenmüller), B.Sc. programme
 - Kontinuumsmechanik (Dr. Pascal Matura, Prof. Dr.-Ing. Stefan Hiermaier), B.Sc. programme
 - Grundlagen der mechanischen Werkstoffcharakterisierung (Praktikum und Seminar, Dr. Georg Ganzenmüller), B.Sc. programme

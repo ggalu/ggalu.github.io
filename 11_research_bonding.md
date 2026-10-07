@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research: Die bonding"
-navigation: 10
+navigation: 11
 ---
 
 # The effect of pressure and temperature on the strength and creep behaviour of sintered silver
@@ -12,7 +12,7 @@ In a project funded by DFG, the project addresses a critical gap in understandin
 
 | ![Sintering Setup](/images/research/die_bonding/Sintering%20Setup.png){: height="400" } |
 |:--:|
-| *This is the sintering setup used in our lab to produce specimen from either metallic pastes. Both temperature and sintering pressure can be closely controlled.* |
+| *This is the sintering setup used in our lab to produce specimens from metallic pastes. Both temperature and sintering pressure can be closely controlled.* |
 
 | ![Test example](/images/research/die_bonding/Test_Image.png){: height="400" } |
 |:--:|

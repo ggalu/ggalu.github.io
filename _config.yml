@@ -2,9 +2,9 @@
 # @Date:   2024-12-19 17:08:28
 # @Last Modified by:   Georg C. Ganzenmueller, Albert-Ludwigs Universitaet Freiburg, Germany
 # @Last Modified time: 2024-12-20 22:24:54
-title: Millidocs Theme
-description: Documentation for small projects
-url: "https://github.com/alexander-heimbuch/millidocs" # the base hostname & protocol for your site, e.g. http://example.com
+title: Gips-Schüle Chair for Sustainable Systems Engineering
+description: Gips-Schüle Chair for Sustainable Systems Engineering, INATECH, University of Freiburg. Mechanical behaviour of materials, high strain rate testing, metamaterials and X-ray CT.
+url: "https://ggalu.github.io"
 
 remote_theme: alexander-heimbuch/millidocs
 
@@ -18,6 +18,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - LICENSE.md
+  - makefile
+  - millidocs.gemspec
+  - vendor
 
 sass:
   sass_dir: _sass

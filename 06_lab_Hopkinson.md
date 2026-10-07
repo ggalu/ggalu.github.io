@@ -6,7 +6,7 @@ navigation: 6
 
 # Hopkinson Bar Lab
 
-A major research focus of the chair is the development of testing methods for high strain rate experiments and the application of these methods to metals, polymers, and structured materials such as foams or metamaterials. To this end, we operate a number of in-house built split-Hopkinson bars, which allow for tension and compression tests at strain rates up to 5000 /s. The lab is well equipped with high-speed cameras in both the visual and and infrared wavelength regime to provide in-situ analysis of strain and temperature evolution.
+A major research focus of the chair is the development of testing methods for high strain rate experiments and the application of these methods to metals, polymers, and structured materials such as foams or metamaterials. To this end, we operate a number of in-house built split-Hopkinson bars, which allow for tension and compression tests at strain rates up to 5000 /s. The lab is well equipped with high-speed cameras in both the visual and infrared wavelength regime to provide in-situ analysis of strain and temperature evolution.
 
 
 | ![SHTB 1](/images/research/dynamic/BFRP_dynamic_fracture.gif){: width="1024px"} |
@@ -27,7 +27,7 @@ A major research focus of the chair is the development of testing methods for hi
 | ![Symmpact](/images/research/dynamic/Symmpact_Sketch.png){: width="1024" } |
 | ![Symmpact](/images/research/dynamic/Symmpact.jpg){: width="1024" } |
 |:--:|
-| *Figure 3: This is a direct-impact bar setup with 40 mm diameter polycarbonate bars. It is particularily well suited for compression tests on foams.* |
+| *Figure 3: This is a direct-impact bar setup with 40 mm diameter polycarbonate bars. It is particularly well suited for compression tests on foams.* |
 
 
 ## Large Direct-Impact Tension Bar

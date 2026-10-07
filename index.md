@@ -28,6 +28,6 @@ Our group specializes in mechanical behaviour of materials. We combine experimen
 
 ![Symmpact](/images/research/Symmpact.png){: height="200" }
 
-![Collission Welding](/images/research/welding.png){: height="200" }
+![Collision Welding](/images/research/welding.png){: height="200" }
 
 ![Sustainability Analysis](/images/research/Sustainability.jpeg){: height="200" }
