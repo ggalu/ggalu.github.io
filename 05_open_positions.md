@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Positions
-navigation: 5
+navigation: 6
 ---
 
 # Open Positions

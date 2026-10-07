@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Lab: Hopkinson bars"
-navigation: 6
+navigation: 7
 ---
 
 # Hopkinson Bar Lab

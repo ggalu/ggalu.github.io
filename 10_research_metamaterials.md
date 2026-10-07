@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research: Metamaterials"
-navigation: 10
+navigation: 11
 ---
 
 # Programming strain rate sensitivity into metamaterials

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Lab: X-Ray CT"
-navigation: 7
+navigation: 8
 ---
 
 # X-Ray and Computed Tomography laboratory
