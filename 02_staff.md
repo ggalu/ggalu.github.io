@@ -41,7 +41,9 @@ th, td {
 </style>
 | | |
 |----------------------- |--------------------------------|
-| ![Mohammad](/images/people/101_Mohammad.jpeg){: height="160" } | **Prof. Mohammad A. Gharaibeh** <br/> Visiting Researcher July - September 2025, investigation of sintered silver for die bonding|
+| ![Mohammad](/images/people/101_Mohammad.jpeg){: height="160" } | **Prof. Mohammad A. Gharaibeh** <br/> Visiting Researcher 09/2026 - 12/2026, investigation of sintered silver for die bonding|
+|----------------------- |--------------------------------|
+| ![Jose](/images/people/17_Jose.jpg){: height="160" } | **Prof. José Manuel Rodríguez Sereno** <br/> Visiting Researcher 09/2026 - 02/2027, X-Ray studies on fibre-reinforced composites|
 
 <br/>
 <br/>
