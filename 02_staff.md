@@ -4,6 +4,16 @@ title: People
 navigation: 2
 ---
 
+<style>
+th, td {
+  width: 33%;
+}
+td img {
+  height: auto;
+  max-height: 160px;
+}
+</style>
+
 # People
 
 Please note our new address:
@@ -34,11 +44,7 @@ D-79110 Freiburg
 <br/>
 <br/>
 ## Guest scientists
-<style>
-th, td {
-  width: 33%;
-}
-</style>
+
 | | |
 |----------------------- |--------------------------------|
 | ![Mohammad](/images/people/101_Mohammad.jpeg){: height="160" } | **Prof. Mohammad A. Gharaibeh** <br/> Visiting Researcher 09/2026 - 12/2026, investigation of sintered silver for die bonding|
@@ -48,11 +54,7 @@ th, td {
 <br/>
 <br/>
 ## Past members of the group
-<style>
-th, td {
-  width: 33%;
-}
-</style>
+
 | | |
 |----------------------- |--------------------------------|
 | ![Maria](/images/people/02_Maria.png){: height="160" } | **Maria Zamiralova** <br/> Sekretärin |
