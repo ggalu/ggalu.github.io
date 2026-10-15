@@ -25,7 +25,7 @@ The source code is available under the MIT licence at **[github.com/ggalu/voxelD
 
 |  |  |
 |----------------------- |--------------------------------|
-| ![SoftwareX](/images/code/softwarex_cover.jpg){: width="120" style="min-width: 120px" } | G.C. Ganzenmüller, voxelDVC: a matrix-free, GPU-native global Digital Volume Correlation solver for high-resolution computed tomography, *SoftwareX*, accepted for publication, **2026**. |
+| ![SoftwareX](/images/code/softwarex_cover.jpg){: width="120" style="min-width: 120px" } | G.C. Ganzenmüller, voxelDVC: a matrix-free, GPU-native global Digital Volume Correlation solver for high-resolution computed tomography, *SoftwareX* 36, 103111, **2026**. DOI: **[10.1016/j.softx.2026.103111](https://doi.org/10.1016/j.softx.2026.103111){:target="_blank"}**. |
 
 
 ***
